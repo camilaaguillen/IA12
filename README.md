@@ -1,4 +1,4 @@
-# IA12
+# Regresión lineal
 La felicidad no es algo fácilmente mensurable, aun así, la publicación World Happiness Report
 (WHR) ha tratado desde el 2012 de medir los niveles de felicidad de la gran mayoría de los países
 del mundo. Los resultados que obtienen año con año se publican de forma abierta, así como los
